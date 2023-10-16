@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-<h3 align="center">A passionate UX / UI Designer and Full Stack Dev</h3>
+<h3 align="center">A passionate UX / UI Designer and Full Stack Dev in training</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noudas&label=Profile%20views&color=0e75b6&style=flat" alt="noudas" /> </p>
 
