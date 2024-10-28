@@ -1,5 +1,5 @@
-<h2 align="left">Bem vindo 👋! </h2>
-<h4 align="legt">My name is Jonathan and I'm a FullStack Dev and UX/UI Designer, from Brazil</h4>
+<h2 align="left">Bem vindos!</h2>
+<h4 align="center">My name is Jonathan and I'm a FullStack Dev and UX/UI Designer, from Brazil</h4>
 
 ###
 
